@@ -23,6 +23,7 @@ public class Main {
        int b= p.product(24,9, 23);
 
        double c = p.product(24.0,9.0);
+
        System.out.print(a+" "+b+" "+c);
     }
 
